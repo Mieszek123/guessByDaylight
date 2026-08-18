@@ -1,0 +1,3912 @@
+[
+  {
+    "id": "A_Nurse's_Calling",
+    "name": "A Nurse's Calling",
+    "side": "killer",
+    "character": "The Nurse",
+    "description": "___ is a Unique Perk belonging to The Nurse.Prestige The Nurse to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "A_Place_For_Us",
+    "name": "A Place For Us",
+    "side": "unknown",
+    "character": "Kwon Tae-young",
+    "description": "___ is a Unique Perk belonging to Kwon Tae-young.Prestige Kwon Tae-young to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Ace_in_the_Hole",
+    "name": "Ace in the Hole",
+    "side": "survivor",
+    "character": "Ace Visconti",
+    "description": "___ is a Unique Perk belonging to Ace Visconti.Prestige Ace Visconti to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Adrenaline",
+    "name": "Adrenaline",
+    "side": "survivor",
+    "character": "Meg Thomas",
+    "description": "___ is a Unique Perk belonging to Meg Thomas.Prestige Meg Thomas to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Exhaustion Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Aftercare",
+    "name": "Aftercare",
+    "side": "survivor",
+    "character": "Jeff Johansen",
+    "description": "___ is a Unique Perk belonging to Jeff Johansen.Prestige Jeff Johansen to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Agitation",
+    "name": "Agitation",
+    "side": "killer",
+    "character": "The Trapper",
+    "description": "___ is a Unique Perk belonging to The Trapper.Prestige The Trapper to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Alert",
+    "name": "Alert",
+    "side": "survivor",
+    "character": "Feng Min",
+    "description": "___ is a Unique Perk belonging to Feng Min.Prestige Feng Min to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Alien_Instinct",
+    "name": "Alien Instinct",
+    "side": "killer",
+    "character": "The Xenomorph",
+    "description": "___ is a Unique Perk belonging to The Xenomorph.Prestige The Xenomorph to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "All-Shaking_Thunder",
+    "name": "All-Shaking Thunder",
+    "side": "killer",
+    "character": "The Houndmaster",
+    "description": "___ is a Unique Perk belonging to The Houndmaster.Prestige The Houndmaster to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Any_Means_Necessary",
+    "name": "Any Means Necessary",
+    "side": "survivor",
+    "character": "Yui Kimura",
+    "description": "___ is a Unique Perk belonging to Yui Kimura.Prestige Yui Kimura to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Apocalyptic_Ingenuity",
+    "name": "Apocalyptic Ingenuity",
+    "side": "survivor",
+    "character": "Rick Grimes",
+    "description": "___ is a Unique Perk belonging to Rick Grimes.Prestige Rick Grimes to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Appraisal",
+    "name": "Appraisal",
+    "side": "survivor",
+    "character": "Élodie Rakoto",
+    "description": "___ is a Unique Perk belonging to Élodie Rakoto.Prestige Élodie Rakoto to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Artefact_Hunter",
+    "name": "Artefact Hunter",
+    "side": "unknown",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Perks",
+      "Unused Perks"
+    ]
+  },
+  {
+    "id": "Autodidact",
+    "name": "Autodidact",
+    "side": "survivor",
+    "character": "Adam Francis",
+    "description": "___ is a Unique Perk belonging to Adam Francis.Prestige Adam Francis to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Awakened_Awareness",
+    "name": "Awakened Awareness",
+    "side": "killer",
+    "character": "The Mastermind",
+    "description": "___ is a Unique Perk belonging to The Mastermind.Prestige The Mastermind to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Babysitter",
+    "name": "Babysitter",
+    "side": "survivor",
+    "character": "Steve Harrington",
+    "description": "___ is a Unique Perk belonging to Steve Harrington.Prestige Steve Harrington to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Background_Player",
+    "name": "Background Player",
+    "side": "survivor",
+    "character": "Renato Lyra",
+    "description": "___ is a Unique Perk belonging to Renato Lyra.Prestige Renato Lyra to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Exhaustion Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Bada_Bada_Boom",
+    "name": "Bada Bada Boom",
+    "side": "unknown",
+    "character": "Dustin Henderson",
+    "description": "___ is a Unique Perk belonging to Dustin Henderson.Prestige Dustin Henderson to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Balanced_Landing",
+    "name": "Balanced Landing",
+    "side": "survivor",
+    "character": "Nea Karlsson",
+    "description": "___ is a Unique Perk belonging to Nea Karlsson.Prestige Nea Karlsson to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Exhaustion Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Bamboozle",
+    "name": "Bamboozle",
+    "side": "killer",
+    "character": "The Clown",
+    "description": "___ is a Unique Perk belonging to The Clown.Prestige The Clown to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Barbecue_&_Chilli",
+    "name": "Barbecue & Chilli",
+    "side": "killer",
+    "character": "The Cannibal",
+    "description": "___ is a Unique Perk belonging to The Cannibal.Prestige The Cannibal to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Bardic_Inspiration",
+    "name": "Bardic Inspiration",
+    "side": "survivor",
+    "character": null,
+    "description": "___ is a Unique Perk belonging to Aestri Yazar & Baermar Uraz.Prestige Aestri Yazar & Baermar Uraz to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Batteries_Included",
+    "name": "Batteries Included",
+    "side": "killer",
+    "character": "The Good Guy",
+    "description": "___ is a Unique Perk belonging to The Good Guy.Prestige The Good Guy to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Beast_of_Prey",
+    "name": "Beast of Prey",
+    "side": "killer",
+    "character": "The Huntress",
+    "description": "___ is a Unique Perk belonging to The Huntress.Prestige The Huntress to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Better_Together",
+    "name": "Better Together",
+    "side": "survivor",
+    "character": "Nancy Wheeler",
+    "description": "___ is a Unique Perk belonging to Nancy Wheeler.Prestige Nancy Wheeler to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Better_than_New",
+    "name": "Better than New",
+    "side": "unknown",
+    "character": "Rebecca Chambers",
+    "description": "___ is a Unique Perk belonging to Rebecca Chambers.Prestige Rebecca Chambers to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Bite_the_Bullet",
+    "name": "Bite the Bullet",
+    "side": "survivor",
+    "character": "Leon Scott Kennedy",
+    "description": "___ is a Unique Perk belonging to Leon Scott Kennedy.Prestige Leon Scott Kennedy to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Bitter_Murmur",
+    "name": "Bitter Murmur",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Blast_Mine",
+    "name": "Blast Mine",
+    "side": "survivor",
+    "character": "Jill Valentine",
+    "description": "___ is a Unique Perk belonging to Jill Valentine.Prestige Jill Valentine to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Blood_Echo",
+    "name": "Blood Echo",
+    "side": "killer",
+    "character": "The Oni",
+    "description": "___ is a Unique Perk belonging to The Oni.Prestige The Oni to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Blood_Pact",
+    "name": "Blood Pact",
+    "side": "survivor",
+    "character": "Cheryl Mason",
+    "description": "___ is a Unique Perk belonging to Cheryl Mason.Prestige Cheryl Mason to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Blood_Rush",
+    "name": "Blood Rush",
+    "side": "survivor",
+    "character": "Renato Lyra",
+    "description": "For the Event of the same name, click here.\n___ is a Unique Perk belonging to Renato Lyra.Prestige Renato Lyra to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Blood_Warden",
+    "name": "Blood Warden",
+    "side": "killer",
+    "character": "The Nightmare",
+    "description": "___ is a Unique Perk belonging to The Nightmare.Prestige The Nightmare to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Bloodhound",
+    "name": "Bloodhound",
+    "side": "killer",
+    "character": "The Wraith",
+    "description": "___ is a Unique Perk belonging to The Wraith.Prestige The Wraith to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Boil_Over",
+    "name": "Boil Over",
+    "side": "survivor",
+    "character": "Kate Denson",
+    "description": "___ is a Unique Perk belonging to Kate Denson.Prestige Kate Denson to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Bond",
+    "name": "Bond",
+    "side": "survivor",
+    "character": "Dwight Fairfield",
+    "description": "___ is a Unique Perk belonging to Dwight Fairfield.Prestige Dwight Fairfield to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Boon:_Circle_of_Healing",
+    "name": "Boon: Circle of Healing",
+    "side": "survivor",
+    "character": "Mikaela Reid",
+    "description": "___ is a Unique Perk belonging to Mikaela Reid.Prestige Mikaela Reid to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Boon Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Boon:_Dark_Theory",
+    "name": "Boon: Dark Theory",
+    "side": "survivor",
+    "character": "Yoichi Asakawa",
+    "description": "___ is a Unique Perk belonging to Yoichi Asakawa.Prestige Yoichi Asakawa to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Boon Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Boon:_Exponential",
+    "name": "Boon: Exponential",
+    "side": "survivor",
+    "character": "Jonah Vasquez",
+    "description": "___ is a Unique Perk belonging to Jonah Vasquez.Prestige Jonah Vasquez to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Boon Perks",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Boon:_Illumination",
+    "name": "Boon: Illumination",
+    "side": "survivor",
+    "character": "Alan Wake",
+    "description": "___ is a Unique Perk belonging to Alan Wake.Prestige Alan Wake to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Boon Perks",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Boon:_Shadow_Step",
+    "name": "Boon: Shadow Step",
+    "side": "survivor",
+    "character": "Mikaela Reid",
+    "description": "___ is a Unique Perk belonging to Mikaela Reid.Prestige Mikaela Reid to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Boon Perks",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Boon:_Steadfast",
+    "name": "Boon: Steadfast",
+    "side": "unknown",
+    "character": "Aurora Stardotter",
+    "description": "___ is a Unique Perk belonging to Aurora Stardotter.Prestige Aurora Stardotter to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Borrowed_Time",
+    "name": "Borrowed Time",
+    "side": "survivor",
+    "character": "Bill Overbeck",
+    "description": "___ is a Unique Perk belonging to Bill Overbeck.Prestige Bill Overbeck to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Botany_Knowledge",
+    "name": "Botany Knowledge",
+    "side": "survivor",
+    "character": "Claudette Morel",
+    "description": "___ is a Unique Perk belonging to Claudette Morel.Prestige Claudette Morel to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Bound_by_Obsession",
+    "name": "Bound by Obsession",
+    "side": "survivor",
+    "character": "Laurie Strode",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Breakdown",
+    "name": "Breakdown",
+    "side": "survivor",
+    "character": "Jeff Johansen",
+    "description": "___ is a Unique Perk belonging to Jeff Johansen.Prestige Jeff Johansen to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Breakout",
+    "name": "Breakout",
+    "side": "survivor",
+    "character": "Yui Kimura",
+    "description": "___ is a Unique Perk belonging to Yui Kimura.Prestige Yui Kimura to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Brutal_Strength",
+    "name": "Brutal Strength",
+    "side": "killer",
+    "character": "The Trapper",
+    "description": "___ is a Unique Perk belonging to The Trapper.Prestige The Trapper to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Buckle_Up",
+    "name": "Buckle Up",
+    "side": "survivor",
+    "character": "Ash Williams",
+    "description": "___ is a Unique Perk belonging to Ash Williams.Prestige Ash Williams to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Built_to_Last",
+    "name": "Built to Last",
+    "side": "survivor",
+    "character": "Felix Richter",
+    "description": "___ is a Unique Perk belonging to Felix Richter.Prestige Felix Richter to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Call_of_Brine",
+    "name": "Call of Brine",
+    "side": "killer",
+    "character": "The Onryō",
+    "description": "___ is a Unique Perk belonging to The Onryō.Prestige The Onryō to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Calm_Spirit",
+    "name": "Calm Spirit",
+    "side": "survivor",
+    "character": "Jake Park",
+    "description": "___ is a Unique Perk belonging to Jake Park.Prestige Jake Park to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Camaraderie",
+    "name": "Camaraderie",
+    "side": "survivor",
+    "character": "Steve Harrington",
+    "description": "___ is a Unique Perk belonging to Steve Harrington.Prestige Steve Harrington to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Celestial_Witness",
+    "name": "Celestial Witness",
+    "side": "unknown",
+    "character": "The Judgment",
+    "description": "___ is a Unique Perk belonging to The Judgment.Prestige The Judgment to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Champion_of_Light",
+    "name": "Champion of Light",
+    "side": "survivor",
+    "character": "Alan Wake",
+    "description": "___ is a Unique Perk belonging to Alan Wake.Prestige Alan Wake to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Change_of_Plan",
+    "name": "Change of Plan",
+    "side": "unknown",
+    "character": "Dustin Henderson",
+    "description": "___ is a Unique Perk belonging to Dustin Henderson.Prestige Dustin Henderson to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Chemical_Trap",
+    "name": "Chemical Trap",
+    "side": "survivor",
+    "character": "Ellen Ripley",
+    "description": "___ is a Unique Perk belonging to Ellen Ripley.Prestige Ellen Ripley to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Clairvoyance",
+    "name": "Clairvoyance",
+    "side": "survivor",
+    "character": "Mikaela Reid",
+    "description": "___ is a Unique Perk belonging to Mikaela Reid.Prestige Mikaela Reid to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Clean_Break",
+    "name": "Clean Break",
+    "side": "survivor",
+    "character": "Taurie Cain",
+    "description": "___ is a Unique Perk belonging to Taurie Cain.Prestige Taurie Cain to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Come_and_Get_Me!",
+    "name": "Come and Get Me!",
+    "side": "survivor",
+    "character": "Rick Grimes",
+    "description": "___ is a Unique Perk belonging to Rick Grimes.Prestige Rick Grimes to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Conviction",
+    "name": "Conviction",
+    "side": "survivor",
+    "character": "Michonne Grimes",
+    "description": "___ is a Unique Perk belonging to Michonne Grimes.Prestige Michonne Grimes to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Corrective_Action",
+    "name": "Corrective Action",
+    "side": "survivor",
+    "character": "Jonah Vasquez",
+    "description": "___ is a Unique Perk belonging to Jonah Vasquez.Prestige Jonah Vasquez to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Corrupt_Intervention",
+    "name": "Corrupt Intervention",
+    "side": "killer",
+    "character": "The Plague",
+    "description": "___ is a Unique Perk belonging to The Plague.Prestige The Plague to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Coulrophobia",
+    "name": "Coulrophobia",
+    "side": "killer",
+    "character": "The Clown",
+    "description": "___ is a Unique Perk belonging to The Clown.Prestige The Clown to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Counterforce",
+    "name": "Counterforce",
+    "side": "survivor",
+    "character": "Jill Valentine",
+    "description": "___ is a Unique Perk belonging to Jill Valentine.Prestige Jill Valentine to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Coup_de_Grâce",
+    "name": "Coup de Grâce",
+    "side": "killer",
+    "character": "The Twins",
+    "description": "___ is a Unique Perk belonging to The Twins.Prestige The Twins to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Cross-Examination",
+    "name": "Cross-Examination",
+    "side": "unknown",
+    "character": "Shane Wiigwaas",
+    "description": "___ is a Unique Perk belonging to Shane Wiigwaas.Prestige Shane Wiigwaas to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Cruel_Limits",
+    "name": "Cruel Limits",
+    "side": "killer",
+    "character": "The Demogorgon",
+    "description": "___ is a Unique Perk belonging to The Demogorgon.Prestige The Demogorgon to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Cull_the_Weak",
+    "name": "Cull the Weak",
+    "side": "killer",
+    "character": "The Shape",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Cut_Loose",
+    "name": "Cut Loose",
+    "side": "survivor",
+    "character": "Thalita Lyra",
+    "description": "___ is a Unique Perk belonging to Thalita Lyra.Prestige Thalita Lyra to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Chapter 27",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Dance_With_Me",
+    "name": "Dance With Me",
+    "side": "survivor",
+    "character": "Kate Denson",
+    "description": "___ is a Unique Perk belonging to Kate Denson.Prestige Kate Denson to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Dark_Arrogance",
+    "name": "Dark Arrogance",
+    "side": "killer",
+    "character": "The Lich",
+    "description": "___ is a Unique Perk belonging to The Lich.Prestige The Lich to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Dark_Devotion",
+    "name": "Dark Devotion",
+    "side": "killer",
+    "character": "The Plague",
+    "description": "___ is a Unique Perk belonging to The Plague.Prestige The Plague to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Dark_Sense",
+    "name": "Dark Sense",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ]
+  },
+  {
+    "id": "Darkness_Revealed",
+    "name": "Darkness Revealed",
+    "side": "killer",
+    "character": "The Dredge",
+    "description": "___ is a Unique Perk belonging to The Dredge.Prestige The Dredge to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Dead_Hard",
+    "name": "Dead Hard",
+    "side": "survivor",
+    "character": "David King",
+    "description": "___ is a Unique Perk belonging to David King.Prestige David King to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Exhaustion Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Dead_Man's_Switch",
+    "name": "Dead Man's Switch",
+    "side": "killer",
+    "character": "The Deathslinger",
+    "description": "___ is a Unique Perk belonging to The Deathslinger.Prestige The Deathslinger to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Deadline",
+    "name": "Deadline",
+    "side": "survivor",
+    "character": "Alan Wake",
+    "description": "___ is a Unique Perk belonging to Alan Wake.Prestige Alan Wake to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Deathbound",
+    "name": "Deathbound",
+    "side": "killer",
+    "character": "The Executioner",
+    "description": "___ is a Unique Perk belonging to The Executioner.Prestige The Executioner to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Deception",
+    "name": "Deception",
+    "side": "survivor",
+    "character": "Élodie Rakoto",
+    "description": "___ is a Unique Perk belonging to Élodie Rakoto.Prestige Élodie Rakoto to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Deerstalker",
+    "name": "Deerstalker",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Deliverance",
+    "name": "Deliverance",
+    "side": "survivor",
+    "character": "Adam Francis",
+    "description": "___ is a Unique Perk belonging to Adam Francis.Prestige Adam Francis to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Desperate_Measures",
+    "name": "Desperate Measures",
+    "side": "survivor",
+    "character": "Felix Richter",
+    "description": "___ is a Unique Perk belonging to Felix Richter.Prestige Felix Richter to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Detective's_Hunch",
+    "name": "Detective's Hunch",
+    "side": "survivor",
+    "character": "David Tapp",
+    "description": "___ is a Unique Perk belonging to David Tapp.Prestige David Tapp to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Discordance",
+    "name": "Discordance",
+    "side": "killer",
+    "character": "The Legion",
+    "description": "___ is a Unique Perk belonging to The Legion.Prestige The Legion to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Dissolution",
+    "name": "Dissolution",
+    "side": "killer",
+    "character": "The Dredge",
+    "description": "___ is a Unique Perk belonging to The Dredge.Prestige The Dredge to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Distortion",
+    "name": "Distortion",
+    "side": "survivor",
+    "character": "Jeff Johansen",
+    "description": "___ is a Unique Perk belonging to Jeff Johansen.Prestige Jeff Johansen to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Distressing",
+    "name": "Distressing",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Diversion",
+    "name": "Diversion",
+    "side": "survivor",
+    "character": "Adam Francis",
+    "description": "___ is a Unique Perk belonging to Adam Francis.Prestige Adam Francis to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Do_No_Harm",
+    "name": "Do No Harm",
+    "side": "survivor",
+    "character": "Orela Rose",
+    "description": "___ is a Unique Perk belonging to Orela Rose.Prestige Orela Rose to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Dominance",
+    "name": "Dominance",
+    "side": "killer",
+    "character": "The Dark Lord",
+    "description": "___ is a Unique Perk belonging to The Dark Lord.Prestige The Dark Lord to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Down_to_the_Last",
+    "name": "Down to the Last",
+    "side": "survivor",
+    "character": "Laurie Strode",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Dragon's_Grip",
+    "name": "Dragon's Grip",
+    "side": "killer",
+    "character": "The Blight",
+    "description": "___ is a Unique Perk belonging to The Blight.Prestige The Blight to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Dramaturgy",
+    "name": "Dramaturgy",
+    "side": "survivor",
+    "character": "Nicolas Cage",
+    "description": "___ is a Unique Perk belonging to Nicolas Cage.Prestige Nicolas Cage to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Exhaustion Perks",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Duty_of_Care",
+    "name": "Duty of Care",
+    "side": "survivor",
+    "character": "Orela Rose",
+    "description": "___ is a Unique Perk belonging to Orela Rose.Prestige Orela Rose to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Déjà_Vu",
+    "name": "Déjà Vu",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ]
+  },
+  {
+    "id": "Empathic_Connection",
+    "name": "Empathic Connection",
+    "side": "survivor",
+    "character": "Yoichi Asakawa",
+    "description": "___ is a Unique Perk belonging to Yoichi Asakawa.Prestige Yoichi Asakawa to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Empathy",
+    "name": "Empathy",
+    "side": "survivor",
+    "character": "Claudette Morel",
+    "description": "___ is a Unique Perk belonging to Claudette Morel.Prestige Claudette Morel to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Enduring",
+    "name": "Enduring",
+    "side": "killer",
+    "character": "The Hillbilly",
+    "description": "___ is a Unique Perk belonging to The Hillbilly.Prestige The Hillbilly to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Eruption",
+    "name": "Eruption",
+    "side": "killer",
+    "character": "The Nemesis",
+    "description": "___ is a Unique Perk belonging to The Nemesis.Prestige The Nemesis to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Extrasensory_Perception",
+    "name": "Extrasensory Perception",
+    "side": "unknown",
+    "character": "Eleven",
+    "description": "___ is a Unique Perk belonging to Eleven.Prestige Eleven to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Exultation",
+    "name": "Exultation",
+    "side": "survivor",
+    "character": "Trevor Belmont",
+    "description": "___ is a Unique Perk belonging to Trevor Belmont.Prestige Trevor Belmont to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Eyes_of_Belmont",
+    "name": "Eyes of Belmont",
+    "side": "survivor",
+    "character": "Trevor Belmont",
+    "description": "___ is a Unique Perk belonging to Trevor Belmont.Prestige Trevor Belmont to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Fast_Track",
+    "name": "Fast Track",
+    "side": "survivor",
+    "character": "Lee Yun-jin",
+    "description": "___ is a Unique Perk belonging to Lee Yun-jin.Prestige Lee Yun-jin to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Chapter 19",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Finesse",
+    "name": "Finesse",
+    "side": "survivor",
+    "character": "Lara Croft",
+    "description": "___ is a Unique Perk belonging to Lara Croft.Prestige Lara Croft to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Fire_Up",
+    "name": "Fire Up",
+    "side": "killer",
+    "character": "The Nightmare",
+    "description": "___ is a Unique Perk belonging to The Nightmare.Prestige The Nightmare to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Five_Moves_Ahead",
+    "name": "Five Moves Ahead",
+    "side": "unknown",
+    "character": "Kwon Tae-young",
+    "description": "___ is a Unique Perk belonging to Kwon Tae-young.Prestige Kwon Tae-young to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Fixated",
+    "name": "Fixated",
+    "side": "survivor",
+    "character": "Nancy Wheeler",
+    "description": "___ is a Unique Perk belonging to Nancy Wheeler.Prestige Nancy Wheeler to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Flashbang",
+    "name": "Flashbang",
+    "side": "survivor",
+    "character": "Leon Scott Kennedy",
+    "description": "___ is a Unique Perk belonging to Leon Scott Kennedy.Prestige Leon Scott Kennedy to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Chapter 20",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Flip-Flop",
+    "name": "Flip-Flop",
+    "side": "survivor",
+    "character": "Ash Williams",
+    "description": "___ is a Unique Perk belonging to Ash Williams.Prestige Ash Williams to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Flow_State",
+    "name": "Flow State",
+    "side": "unknown",
+    "character": "Kwon Tae-young",
+    "description": "___ is a Unique Perk belonging to Kwon Tae-young.Prestige Kwon Tae-young to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Fogwise",
+    "name": "Fogwise",
+    "side": "survivor",
+    "character": "Vittorio Toscano",
+    "description": "___ is a Unique Perk belonging to Vittorio Toscano.Prestige Vittorio Toscano to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "For_the_People",
+    "name": "For the People",
+    "side": "survivor",
+    "character": "Zarina Kassir",
+    "description": "___ is a Unique Perk belonging to Zarina Kassir.Prestige Zarina Kassir to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Forced_Hesitation",
+    "name": "Forced Hesitation",
+    "side": "killer",
+    "character": "The Singularity",
+    "description": "___ is a Unique Perk belonging to The Singularity.Prestige The Singularity to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Chapter 28",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Forced_Penance",
+    "name": "Forced Penance",
+    "side": "killer",
+    "character": "The Executioner",
+    "description": "___ is a Unique Perk belonging to The Executioner.Prestige The Executioner to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Forever_Entwined",
+    "name": "Forever Entwined",
+    "side": "killer",
+    "character": "The Ghoul",
+    "description": "___ is a Unique Perk belonging to The Ghoul.Prestige The Ghoul to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Franklin's_Demise",
+    "name": "Franklin's Demise",
+    "side": "killer",
+    "character": "The Cannibal",
+    "description": "___ is a Unique Perk belonging to The Cannibal.Prestige The Cannibal to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Friendly_Competition",
+    "name": "Friendly Competition",
+    "side": "survivor",
+    "character": "Thalita Lyra",
+    "description": "___ is a Unique Perk belonging to Thalita Lyra.Prestige Thalita Lyra to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Friends_'til_the_End",
+    "name": "Friends 'til the End",
+    "side": "killer",
+    "character": "The Good Guy",
+    "description": "___ is a Unique Perk belonging to The Good Guy.Prestige The Good Guy to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Obsession Perks",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Fruits_of_Your_Labor",
+    "name": "Fruits of Your Labor",
+    "side": "unknown",
+    "character": "Aurora Stardotter",
+    "description": "___ is a Unique Perk belonging to Aurora Stardotter.Prestige Aurora Stardotter to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Furtive_Chase",
+    "name": "Furtive Chase",
+    "side": "killer",
+    "character": "The Ghost Face",
+    "description": "___ is a Unique Perk belonging to The Ghost Face.Prestige The Ghost Face to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Game_Afoot",
+    "name": "Game Afoot",
+    "side": "killer",
+    "character": "The Skull Merchant",
+    "description": "___ is a Unique Perk belonging to The Skull Merchant.Prestige The Skull Merchant to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Chapter 27",
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Gearhead",
+    "name": "Gearhead",
+    "side": "killer",
+    "character": "The Deathslinger",
+    "description": "___ is a Unique Perk belonging to The Deathslinger.Prestige The Deathslinger to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Genetic_Limits",
+    "name": "Genetic Limits",
+    "side": "killer",
+    "character": "The Singularity",
+    "description": "___ is a Unique Perk belonging to The Singularity.Prestige The Singularity to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Ghost_Notes",
+    "name": "Ghost Notes",
+    "side": "survivor",
+    "character": "Vee Boonyasak",
+    "description": "___ is a Unique Perk belonging to Vee Boonyasak.Prestige Vee Boonyasak to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Grim_Embrace",
+    "name": "Grim Embrace",
+    "side": "killer",
+    "character": "The Artist",
+    "description": "___ is a Unique Perk belonging to The Artist.Prestige The Artist to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hardened",
+    "name": "Hardened",
+    "side": "survivor",
+    "character": "Lara Croft",
+    "description": "___ is a Unique Perk belonging to Lara Croft.Prestige Lara Croft to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Haywire",
+    "name": "Haywire",
+    "side": "killer",
+    "character": "The Animatronic",
+    "description": "___ is a Unique Perk belonging to The Animatronic.Prestige The Animatronic to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Head_On",
+    "name": "Head On",
+    "side": "survivor",
+    "character": "Jane Romero",
+    "description": "___ is a Unique Perk belonging to Jane Romero.Prestige Jane Romero to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Exhaustion Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Help_Wanted",
+    "name": "Help Wanted",
+    "side": "killer",
+    "character": "The Animatronic",
+    "description": "___ is a Unique Perk belonging to The Animatronic.Prestige The Animatronic to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Blood_Favour",
+    "name": "Hex: Blood Favour",
+    "side": "killer",
+    "character": "The Blight",
+    "description": "___ is a Unique Perk belonging to The Blight.Prestige The Blight to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Crowd_Control",
+    "name": "Hex: Crowd Control",
+    "side": "killer",
+    "character": "The Trickster",
+    "description": "___ is a Unique Perk belonging to The Trickster.Prestige The Trickster to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Devour_Hope",
+    "name": "Hex: Devour Hope",
+    "side": "killer",
+    "character": "The Hag",
+    "description": "___ is a Unique Perk belonging to The Hag.Prestige The Hag to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Face_the_Darkness",
+    "name": "Hex: Face the Darkness",
+    "side": "killer",
+    "character": "The Knight",
+    "description": "___ is a Unique Perk belonging to The Knight.Prestige The Knight to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Fortune's_Fool",
+    "name": "Hex: Fortune's Fool",
+    "side": "killer",
+    "character": "The Cenobite",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Hex Perks",
+      "Killer Perks",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Haunted_Ground",
+    "name": "Hex: Haunted Ground",
+    "side": "killer",
+    "character": "The Spirit",
+    "description": "___ is a Unique Perk belonging to The Spirit.Prestige The Spirit to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Hive_Mind",
+    "name": "Hex: Hive Mind",
+    "side": "killer",
+    "character": "The First",
+    "description": "___ is a Unique Perk belonging to The First.Prestige The First to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Huntress_Lullaby",
+    "name": "Hex: Huntress Lullaby",
+    "side": "killer",
+    "character": "The Huntress",
+    "description": "___ is a Unique Perk belonging to The Huntress.Prestige The Huntress to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_No_One_Escapes_Death",
+    "name": "Hex: No One Escapes Death",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Hex Perks",
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Nothing_but_Misery",
+    "name": "Hex: Nothing but Misery",
+    "side": "killer",
+    "character": "The Ghoul",
+    "description": "___ is a Unique Perk belonging to The Ghoul.Prestige The Ghoul to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Overture_of_Doom",
+    "name": "Hex: Overture of Doom",
+    "side": "killer",
+    "character": "The Krasue",
+    "description": "___ is a Unique Perk belonging to The Krasue.Prestige The Krasue to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Pentimento",
+    "name": "Hex: Pentimento",
+    "side": "killer",
+    "character": "The Artist",
+    "description": "___ is a Unique Perk belonging to The Artist.Prestige The Artist to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Retribution",
+    "name": "Hex: Retribution",
+    "side": "killer",
+    "character": "The Deathslinger",
+    "description": "___ is a Unique Perk belonging to The Deathslinger.Prestige The Deathslinger to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Ruin",
+    "name": "Hex: Ruin",
+    "side": "killer",
+    "character": "The Hag",
+    "description": "___ is a Unique Perk belonging to The Hag.Prestige The Hag to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Scared_to_Death",
+    "name": "Hex: Scared to Death",
+    "side": "unknown",
+    "character": "The Slasher",
+    "description": "___ is a Unique Perk belonging to The Slasher.Prestige The Slasher to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Hex:_The_Third_Seal",
+    "name": "Hex: The Third Seal",
+    "side": "killer",
+    "character": "The Hag",
+    "description": "___ is a Unique Perk belonging to The Hag.Prestige The Hag to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Thrill_of_the_Hunt",
+    "name": "Hex: Thrill of the Hunt",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Hex Perks",
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Two_Can_Play",
+    "name": "Hex: Two Can Play",
+    "side": "killer",
+    "character": "The Good Guy",
+    "description": "___ is a Unique Perk belonging to The Good Guy.Prestige The Good Guy to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Under_Your_Thumb",
+    "name": "Hex: Under Your Thumb",
+    "side": "unknown",
+    "character": "The Judgment",
+    "description": "___ is a Unique Perk belonging to The Judgment.Prestige The Judgment to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Undying",
+    "name": "Hex: Undying",
+    "side": "killer",
+    "character": "The Blight",
+    "description": "___ is a Unique Perk belonging to The Blight.Prestige The Blight to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hex:_Wretched_Fate",
+    "name": "Hex: Wretched Fate",
+    "side": "killer",
+    "character": "The Dark Lord",
+    "description": "___ is a Unique Perk belonging to The Dark Lord.Prestige The Dark Lord to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Hex Perks",
+      "Obsession Perks",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hoarder",
+    "name": "Hoarder",
+    "side": "killer",
+    "character": "The Twins",
+    "description": "___ is a Unique Perk belonging to The Twins.Prestige The Twins to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hope",
+    "name": "Hope",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ]
+  },
+  {
+    "id": "Hubris",
+    "name": "Hubris",
+    "side": "killer",
+    "character": "The Knight",
+    "description": "___ is a Unique Perk belonging to The Knight.Prestige The Knight to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Human_Greed",
+    "name": "Human Greed",
+    "side": "killer",
+    "character": "The Dark Lord",
+    "description": "___ is a Unique Perk belonging to The Dark Lord.Prestige The Dark Lord to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Hyperfocus",
+    "name": "Hyperfocus",
+    "side": "unknown",
+    "character": "Rebecca Chambers",
+    "description": "___ is a Unique Perk belonging to Rebecca Chambers.Prestige Rebecca Chambers to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Hysteria",
+    "name": "Hysteria",
+    "side": "killer",
+    "character": "The Nemesis",
+    "description": "___ is a Unique Perk belonging to The Nemesis.Prestige The Nemesis to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "I'm_All_Ears",
+    "name": "I'm All Ears",
+    "side": "killer",
+    "character": "The Ghost Face",
+    "description": "___ is a Unique Perk belonging to The Ghost Face.Prestige The Ghost Face to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "In_the_Dark",
+    "name": "In the Dark",
+    "side": "unknown",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Chapter 5.5",
+      "Perks",
+      "Unused Perks"
+    ]
+  },
+  {
+    "id": "Infectious_Fright",
+    "name": "Infectious Fright",
+    "side": "killer",
+    "character": "The Plague",
+    "description": "___ is a Unique Perk belonging to The Plague.Prestige The Plague to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Inner_Focus",
+    "name": "Inner Focus",
+    "side": "survivor",
+    "character": "Haddie Kaur",
+    "description": "___ is a Unique Perk belonging to Haddie Kaur.Prestige Haddie Kaur to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Inner_Strength",
+    "name": "Inner Strength",
+    "side": "survivor",
+    "character": "Nancy Wheeler",
+    "description": "___ is a Unique Perk belonging to Nancy Wheeler.Prestige Nancy Wheeler to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Insidious",
+    "name": "Insidious",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Invocation:_Treacherous_Crows",
+    "name": "Invocation: Treacherous Crows",
+    "side": "survivor",
+    "character": "Taurie Cain",
+    "description": "___ is a Unique Perk belonging to Taurie Cain.Prestige Taurie Cain to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Invocation Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Invocation:_Weaving_Spiders",
+    "name": "Invocation: Weaving Spiders",
+    "side": "survivor",
+    "character": "Sable Ward",
+    "description": "___ is a Unique Perk belonging to Sable Ward.Prestige Sable Ward to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Invocation Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Iron_Grasp",
+    "name": "Iron Grasp",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Iron_Maiden",
+    "name": "Iron Maiden",
+    "side": "killer",
+    "character": "The Legion",
+    "description": "___ is a Unique Perk belonging to The Legion.Prestige The Legion to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Iron_Will",
+    "name": "Iron Will",
+    "side": "survivor",
+    "character": "Jake Park",
+    "description": "___ is a Unique Perk belonging to Jake Park.Prestige Jake Park to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Exhaustion Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Keep_Them_Waiting",
+    "name": "Keep Them Waiting",
+    "side": "killer",
+    "character": "The Shape",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Kindred",
+    "name": "Kindred",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ]
+  },
+  {
+    "id": "Knock_Out",
+    "name": "Knock Out",
+    "side": "killer",
+    "character": "The Cannibal",
+    "description": "___ is a Unique Perk belonging to The Cannibal.Prestige The Cannibal to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Languid_Touch",
+    "name": "Languid Touch",
+    "side": "killer",
+    "character": "The Lich",
+    "description": "___ is a Unique Perk belonging to The Lich.Prestige The Lich to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Last_Stand",
+    "name": "Last Stand",
+    "side": "survivor",
+    "character": "Michonne Grimes",
+    "description": "___ is a Unique Perk belonging to Michonne Grimes.Prestige Michonne Grimes to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Last_Standing",
+    "name": "Last Standing",
+    "side": "unknown",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Perks",
+      "Unused Perks"
+    ]
+  },
+  {
+    "id": "Lay_Waste",
+    "name": "Lay Waste",
+    "side": "unknown",
+    "character": "The Judgment",
+    "description": "___ is a Unique Perk belonging to The Judgment.Prestige The Judgment to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Leader",
+    "name": "Leader",
+    "side": "survivor",
+    "character": "Dwight Fairfield",
+    "description": "___ is a Unique Perk belonging to Dwight Fairfield.Prestige Dwight Fairfield to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Left_Behind_(Perk)",
+    "name": "Left Behind (Perk)",
+    "side": "survivor",
+    "character": "Bill Overbeck",
+    "description": "For the Chapter of the same name, click here.\n\nLeft Behind is a Unique Perk belonging to Bill Overbeck.Prestige Bill Overbeck to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of Left Behind for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Lend_a_Hand",
+    "name": "Lend a Hand",
+    "side": "unknown",
+    "character": "Shane Wiigwaas",
+    "description": "___ is a Unique Perk belonging to Shane Wiigwaas.Prestige Shane Wiigwaas to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Lethal_Pursuer",
+    "name": "Lethal Pursuer",
+    "side": "killer",
+    "character": "The Nemesis",
+    "description": "___ is a Unique Perk belonging to The Nemesis.Prestige The Nemesis to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Leverage",
+    "name": "Leverage",
+    "side": "killer",
+    "character": "The Skull Merchant",
+    "description": "___ is a Unique Perk belonging to The Skull Merchant.Prestige The Skull Merchant to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Light-Footed",
+    "name": "Light-Footed",
+    "side": "survivor",
+    "character": "Ellen Ripley",
+    "description": "___ is a Unique Perk belonging to Ellen Ripley.Prestige Ellen Ripley to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Lightborn",
+    "name": "Lightborn",
+    "side": "killer",
+    "character": "The Hillbilly",
+    "description": "___ is a Unique Perk belonging to The Hillbilly.Prestige The Hillbilly to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Lightweight",
+    "name": "Lightweight",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ]
+  },
+  {
+    "id": "Lithe",
+    "name": "Lithe",
+    "side": "survivor",
+    "character": "Feng Min",
+    "description": "___ is a Unique Perk belonging to Feng Min.Prestige Feng Min to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Exhaustion Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Low_Profile",
+    "name": "Low Profile",
+    "side": "unknown",
+    "character": "Ada Wong",
+    "description": "___ is a Unique Perk belonging to Ada Wong.Prestige Ada Wong to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Lucky_Break",
+    "name": "Lucky Break",
+    "side": "survivor",
+    "character": "Yui Kimura",
+    "description": "___ is a Unique Perk belonging to Yui Kimura.Prestige Yui Kimura to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Lucky_Star",
+    "name": "Lucky Star",
+    "side": "survivor",
+    "character": "Ellen Ripley",
+    "description": "___ is a Unique Perk belonging to Ellen Ripley.Prestige Ellen Ripley to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Machine_Learning",
+    "name": "Machine Learning",
+    "side": "killer",
+    "character": "The Singularity",
+    "description": "___ is a Unique Perk belonging to The Singularity.Prestige The Singularity to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Mad_Grit",
+    "name": "Mad Grit",
+    "side": "killer",
+    "character": "The Legion",
+    "description": "___ is a Unique Perk belonging to The Legion.Prestige The Legion to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Made_for_This",
+    "name": "Made for This",
+    "side": "survivor",
+    "character": "Gabriel Soma",
+    "description": "___ is a Unique Perk belonging to Gabriel Soma.Prestige Gabriel Soma to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Make_Your_Choice",
+    "name": "Make Your Choice",
+    "side": "killer",
+    "character": "The Pig",
+    "description": "___ is a Unique Perk belonging to The Pig.Prestige The Pig to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Merciless_Storm",
+    "name": "Merciless Storm",
+    "side": "killer",
+    "character": "The Onryō",
+    "description": "___ is a Unique Perk belonging to The Onryō.Prestige The Onryō to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Mettle_of_Man",
+    "name": "Mettle of Man",
+    "side": "survivor",
+    "character": "Ash Williams",
+    "description": "___ is a Unique Perk belonging to Ash Williams.Prestige Ash Williams to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Mindbreaker",
+    "name": "Mindbreaker",
+    "side": "killer",
+    "character": "The Demogorgon",
+    "description": "___ is a Unique Perk belonging to The Demogorgon.Prestige The Demogorgon to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Mirrored_Illusion",
+    "name": "Mirrored Illusion",
+    "side": "survivor",
+    "character": null,
+    "description": "___ is a Unique Perk belonging to Aestri Yazar & Baermar Uraz.Prestige Aestri Yazar & Baermar Uraz to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Moment_of_Glory",
+    "name": "Moment of Glory",
+    "side": "survivor",
+    "character": "Trevor Belmont",
+    "description": "___ is a Unique Perk belonging to Trevor Belmont.Prestige Trevor Belmont to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Monitor_&_Abuse",
+    "name": "Monitor & Abuse",
+    "side": "killer",
+    "character": "The Doctor",
+    "description": "___ is a Unique Perk belonging to The Doctor.Prestige The Doctor to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Nemesis",
+    "name": "Nemesis",
+    "side": "killer",
+    "character": "The Oni",
+    "description": "For the Killer of the same name, click here.\n___ is a Unique Perk belonging to The Oni.Prestige The Oni to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "No_Holds_Barred",
+    "name": "No Holds Barred",
+    "side": "killer",
+    "character": "The Cenobite",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "No_Mither",
+    "name": "No Mither",
+    "side": "survivor",
+    "character": "David King",
+    "description": "___ is a Unique Perk belonging to David King.Prestige David King to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "No_One_Left_Behind",
+    "name": "No One Left Behind",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ]
+  },
+  {
+    "id": "No_Quarter",
+    "name": "No Quarter",
+    "side": "killer",
+    "character": "The Houndmaster",
+    "description": "___ is a Unique Perk belonging to The Houndmaster.Prestige The Houndmaster to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "No_Way_Out",
+    "name": "No Way Out",
+    "side": "killer",
+    "character": "The Trickster",
+    "description": "___ is a Unique Perk belonging to The Trickster.Prestige The Trickster to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "None_Are_Free",
+    "name": "None Are Free",
+    "side": "killer",
+    "character": "The Ghoul",
+    "description": "___ is a Unique Perk belonging to The Ghoul.Prestige The Ghoul to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Nowhere_to_Hide",
+    "name": "Nowhere to Hide",
+    "side": "killer",
+    "character": "The Knight",
+    "description": "___ is a Unique Perk belonging to The Knight.Prestige The Knight to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Chapter 26",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Off_the_Record",
+    "name": "Off the Record",
+    "side": "survivor",
+    "character": "Zarina Kassir",
+    "description": "___ is a Unique Perk belonging to Zarina Kassir.Prestige Zarina Kassir to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "One-Two-Three-Four!",
+    "name": "One-Two-Three-Four!",
+    "side": "survivor",
+    "character": "Vee Boonyasak",
+    "description": "___ is a Unique Perk belonging to Vee Boonyasak.Prestige Vee Boonyasak to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Open-Handed",
+    "name": "Open-Handed",
+    "side": "survivor",
+    "character": "Ace Visconti",
+    "description": "___ is a Unique Perk belonging to Ace Visconti.Prestige Ace Visconti to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Oppression",
+    "name": "Oppression",
+    "side": "killer",
+    "character": "The Twins",
+    "description": "___ is a Unique Perk belonging to The Twins.Prestige The Twins to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Overcharge",
+    "name": "Overcharge",
+    "side": "killer",
+    "character": "The Doctor",
+    "description": "___ is a Unique Perk belonging to The Doctor.Prestige The Doctor to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Overcome",
+    "name": "Overcome",
+    "side": "survivor",
+    "character": "Jonah Vasquez",
+    "description": "___ is a Unique Perk belonging to Jonah Vasquez.Prestige Jonah Vasquez to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Exhaustion Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Overconfidence",
+    "name": "Overconfidence",
+    "side": "unknown",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Perks",
+      "Unused Perks"
+    ]
+  },
+  {
+    "id": "Overwhelming_Presence",
+    "name": "Overwhelming Presence",
+    "side": "killer",
+    "character": "The Doctor",
+    "description": "___ is a Unique Perk belonging to The Doctor.Prestige The Doctor to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Overzealous",
+    "name": "Overzealous",
+    "side": "survivor",
+    "character": "Haddie Kaur",
+    "description": "___ is a Unique Perk belonging to Haddie Kaur.Prestige Haddie Kaur to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Parental_Guidance",
+    "name": "Parental Guidance",
+    "side": "survivor",
+    "character": "Yoichi Asakawa",
+    "description": "___ is a Unique Perk belonging to Yoichi Asakawa.Prestige Yoichi Asakawa to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Phantom_Fear",
+    "name": "Phantom Fear",
+    "side": "killer",
+    "character": "The Animatronic",
+    "description": "___ is a Unique Perk belonging to The Animatronic.Prestige The Animatronic to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Pharmacy",
+    "name": "Pharmacy",
+    "side": "survivor",
+    "character": "Quentin Smith",
+    "description": "___ is a Unique Perk belonging to Quentin Smith.Prestige Quentin Smith to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Plot_Twist",
+    "name": "Plot Twist",
+    "side": "survivor",
+    "character": "Nicolas Cage",
+    "description": "___ is a Unique Perk belonging to Nicolas Cage.Prestige Nicolas Cage to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Plunderer's_Instinct",
+    "name": "Plunderer's Instinct",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ]
+  },
+  {
+    "id": "Poised",
+    "name": "Poised",
+    "side": "survivor",
+    "character": "Jane Romero",
+    "description": "___ is a Unique Perk belonging to Jane Romero.Prestige Jane Romero to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Pop_Goes_the_Weasel",
+    "name": "Pop Goes the Weasel",
+    "side": "killer",
+    "character": "The Clown",
+    "description": "___ is a Unique Perk belonging to The Clown.Prestige The Clown to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Potential_Energy",
+    "name": "Potential Energy",
+    "side": "survivor",
+    "character": "Vittorio Toscano",
+    "description": "___ is a Unique Perk belonging to Vittorio Toscano.Prestige Vittorio Toscano to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Power_Struggle",
+    "name": "Power Struggle",
+    "side": "survivor",
+    "character": "Élodie Rakoto",
+    "description": "___ is a Unique Perk belonging to Élodie Rakoto.Prestige Élodie Rakoto to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Predator",
+    "name": "Predator",
+    "side": "killer",
+    "character": "The Wraith",
+    "description": "___ is a Unique Perk belonging to The Wraith.Prestige The Wraith to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Premonition",
+    "name": "Premonition",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ]
+  },
+  {
+    "id": "Prove_Thyself",
+    "name": "Prove Thyself",
+    "side": "survivor",
+    "character": "Dwight Fairfield",
+    "description": "___ is a Unique Perk belonging to Dwight Fairfield.Prestige Dwight Fairfield to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Quick_&_Quiet",
+    "name": "Quick & Quiet",
+    "side": "survivor",
+    "character": "Meg Thomas",
+    "description": "___ is a Unique Perk belonging to Meg Thomas.Prestige Meg Thomas to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Quick_Gambit",
+    "name": "Quick Gambit",
+    "side": "survivor",
+    "character": "Vittorio Toscano",
+    "description": "___ is a Unique Perk belonging to Vittorio Toscano.Prestige Vittorio Toscano to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Rampage",
+    "name": "Rampage",
+    "side": "unknown",
+    "character": "The Slasher",
+    "description": "___ is a Unique Perk belonging to The Slasher.Prestige The Slasher to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Rancor",
+    "name": "Rancor",
+    "side": "killer",
+    "character": "The Spirit",
+    "description": "___ is a Unique Perk belonging to The Spirit.Prestige The Spirit to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Rapid_Brutality",
+    "name": "Rapid Brutality",
+    "side": "killer",
+    "character": "The Xenomorph",
+    "description": "___ is a Unique Perk belonging to The Xenomorph.Prestige The Xenomorph to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Rapid_Response",
+    "name": "Rapid Response",
+    "side": "survivor",
+    "character": "Orela Rose",
+    "description": "___ is a Unique Perk belonging to Orela Rose.Prestige Orela Rose to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Exhaustion Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Ravenous",
+    "name": "Ravenous",
+    "side": "killer",
+    "character": "The Krasue",
+    "description": "___ is a Unique Perk belonging to The Krasue.Prestige The Krasue to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Reactive_Healing",
+    "name": "Reactive Healing",
+    "side": "unknown",
+    "character": "Ada Wong",
+    "description": "___ is a Unique Perk belonging to Ada Wong.Prestige Ada Wong to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Reassurance",
+    "name": "Reassurance",
+    "side": "unknown",
+    "character": "Rebecca Chambers",
+    "description": "___ is a Unique Perk belonging to Rebecca Chambers.Prestige Rebecca Chambers to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks"
+    ]
+  },
+  {
+    "id": "Red_Herring",
+    "name": "Red Herring",
+    "side": "survivor",
+    "character": "Zarina Kassir",
+    "description": "___ is a Unique Perk belonging to Zarina Kassir.Prestige Zarina Kassir to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Remember_Me",
+    "name": "Remember Me",
+    "side": "killer",
+    "character": "The Nightmare",
+    "description": "___ is a Unique Perk belonging to The Nightmare.Prestige The Nightmare to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Repressed_Alliance",
+    "name": "Repressed Alliance",
+    "side": "survivor",
+    "character": "Cheryl Mason",
+    "description": "___ is a Unique Perk belonging to Cheryl Mason.Prestige Cheryl Mason to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Residual_Manifest",
+    "name": "Residual Manifest",
+    "side": "survivor",
+    "character": "Haddie Kaur",
+    "description": "___ is a Unique Perk belonging to Haddie Kaur.Prestige Haddie Kaur to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Resilience",
+    "name": "Resilience",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Perks",
+      "Survivor Perks"
+    ]
+  },
+  {
+    "id": "Resurgence",
+    "name": "Resurgence",
+    "side": "survivor",
+    "character": "Jill Valentine",
+    "description": "___ is a Unique Perk belonging to Jill Valentine.Prestige Jill Valentine to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Road_Life",
+    "name": "Road Life",
+    "side": "survivor",
+    "character": "Vee Boonyasak",
+    "description": "___ is a Unique Perk belonging to Vee Boonyasak.Prestige Vee Boonyasak to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Rookie_Spirit",
+    "name": "Rookie Spirit",
+    "side": "survivor",
+    "character": "Leon Scott Kennedy",
+    "description": "___ is a Unique Perk belonging to Leon Scott Kennedy.Prestige Leon Scott Kennedy to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Saboteur",
+    "name": "Saboteur",
+    "side": "survivor",
+    "character": "Jake Park",
+    "description": "___ is a Unique Perk belonging to Jake Park.Prestige Jake Park to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Salvation's_Cry",
+    "name": "Salvation's Cry",
+    "side": "unknown",
+    "character": "Aurora Stardotter",
+    "description": "___ is a Unique Perk belonging to Aurora Stardotter.Prestige Aurora Stardotter to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "Scavenger",
+    "name": "Scavenger",
+    "side": "survivor",
+    "character": "Gabriel Soma",
+    "description": "___ is a Unique Perk belonging to Gabriel Soma.Prestige Gabriel Soma to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Chapter 28",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Scene_Partner",
+    "name": "Scene Partner",
+    "side": "survivor",
+    "character": "Nicolas Cage",
+    "description": "___ is a Unique Perk belonging to Nicolas Cage.Prestige Nicolas Cage to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Scourge_Hook:_Floods_of_Rage",
+    "name": "Scourge Hook: Floods of Rage",
+    "side": "killer",
+    "character": "The Onryō",
+    "description": "___ is a Unique Perk belonging to The Onryō.Prestige The Onryō to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Scourge Hook Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Scourge_Hook:_Hangman's_Trick",
+    "name": "Scourge Hook: Hangman's Trick",
+    "side": "killer",
+    "character": "The Pig",
+    "description": "___ is a Unique Perk belonging to The Pig.Prestige The Pig to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Scourge Hook Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Scourge_Hook:_Jagged_Compass",
+    "name": "Scourge Hook: Jagged Compass",
+    "side": "killer",
+    "character": "The Houndmaster",
+    "description": "___ is a Unique Perk belonging to The Houndmaster.Prestige The Houndmaster to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Scourge Hook Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Scourge_Hook:_Monstrous_Shrine",
+    "name": "Scourge Hook: Monstrous Shrine",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Scourge Hook Perks"
+    ]
+  },
+  {
+    "id": "Scourge_Hook:_Pain_Resonance",
+    "name": "Scourge Hook: Pain Resonance",
+    "side": "killer",
+    "character": "The Artist",
+    "description": "___ is a Unique Perk belonging to The Artist.Prestige The Artist to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Scourge Hook Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Scourge_Hook:_Weeping_Wounds",
+    "name": "Scourge Hook: Weeping Wounds",
+    "side": "killer",
+    "character": "The Cenobite",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Scourge Hook Perks"
+    ]
+  },
+  {
+    "id": "Second_Wind",
+    "name": "Second Wind",
+    "side": "survivor",
+    "character": "Steve Harrington",
+    "description": "___ is a Unique Perk belonging to Steve Harrington.Prestige Steve Harrington to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Secret_Project",
+    "name": "Secret Project",
+    "side": "unknown",
+    "character": "The First",
+    "description": "___ is a Unique Perk belonging to The First.Prestige The First to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ]
+  },
+  {
+    "id": "See_How_They_Run",
+    "name": "See How They Run",
+    "side": "killer",
+    "character": "The Shape",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Self-Care",
+    "name": "Self-Care",
+    "side": "survivor",
+    "character": "Claudette Morel",
+    "description": "___ is a Unique Perk belonging to Claudette Morel.Prestige Claudette Morel to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Self-Preservation",
+    "name": "Self-Preservation",
+    "side": "survivor",
+    "character": "Lee Yun-jin",
+    "description": "___ is a Unique Perk belonging to Lee Yun-jin.Prestige Lee Yun-jin to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ]
+  },
+  {
+    "id": "Septic_Touch",
+    "name": "Septic Touch",
+    "side": "killer",
+    "character": "The Dredge",
+    "description": "___ is a Unique Perk belonging to The Dredge.Prestige The Dredge to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Shadowborn",
+    "name": "Shadowborn",
+    "side": "killer",
+    "character": "The Wraith",
+    "description": "___ is a Unique Perk belonging to The Wraith.Prestige The Wraith to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ]
+  },
+  {
+    "id": "Shattered_Hope",
+    "name": "Shattered Hope",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Perks"
+    ]
+  },
+  {
+    "name": "Shoulder the Burden",
+    "side": "survivor",
+    "character": "Taurie Cain",
+    "description": "___ is a Unique Perk belonging to Taurie Cain.Prestige Taurie Cain to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Shoulder_the_Burden"
+  },
+  {
+    "name": "Silent Shadow",
+    "side": "unknown",
+    "character": "The Slasher",
+    "description": "___ is a Unique Perk belonging to The Slasher.Prestige The Slasher to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks"
+    ],
+    "id": "Silent_Shadow"
+  },
+  {
+    "name": "Slippery Meat",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ],
+    "id": "Slippery_Meat"
+  },
+  {
+    "name": "Sloppy Butcher",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks"
+    ],
+    "id": "Sloppy_Butcher"
+  },
+  {
+    "name": "Small Game",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ],
+    "id": "Small_Game"
+  },
+  {
+    "name": "Smash Hit",
+    "side": "survivor",
+    "character": "Lee Yun-jin",
+    "description": "___ is a Unique Perk belonging to Lee Yun-jin.Prestige Lee Yun-jin to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Exhaustion Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Smash_Hit"
+  },
+  {
+    "name": "Solidarity",
+    "side": "survivor",
+    "character": "Jane Romero",
+    "description": "___ is a Unique Perk belonging to Jane Romero.Prestige Jane Romero to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Solidarity"
+  },
+  {
+    "name": "Soul Guard",
+    "side": "survivor",
+    "character": "Cheryl Mason",
+    "description": "___ is a Unique Perk belonging to Cheryl Mason.Prestige Cheryl Mason to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Soul_Guard"
+  },
+  {
+    "name": "Specialist",
+    "side": "survivor",
+    "character": "Lara Croft",
+    "description": "___ is a Unique Perk belonging to Lara Croft.Prestige Lara Croft to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Specialist"
+  },
+  {
+    "name": "Spies from the Shadows",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks"
+    ],
+    "id": "Spies_from_the_Shadows"
+  },
+  {
+    "name": "Spine Chill",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ],
+    "id": "Spine_Chill"
+  },
+  {
+    "name": "Spirit Fury",
+    "side": "killer",
+    "character": "The Spirit",
+    "description": "___ is a Unique Perk belonging to The Spirit.Prestige The Spirit to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Spirit_Fury"
+  },
+  {
+    "name": "Sprint Burst",
+    "side": "survivor",
+    "character": "Meg Thomas",
+    "description": "___ is a Unique Perk belonging to Meg Thomas.Prestige Meg Thomas to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Exhaustion Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Sprint_Burst"
+  },
+  {
+    "name": "Stake Out",
+    "side": "survivor",
+    "character": "David Tapp",
+    "description": "___ is a Unique Perk belonging to David Tapp.Prestige David Tapp to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Stake_Out"
+  },
+  {
+    "name": "Starstruck",
+    "side": "killer",
+    "character": "The Trickster",
+    "description": "___ is a Unique Perk belonging to The Trickster.Prestige The Trickster to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Starstruck"
+  },
+  {
+    "name": "Still Sight",
+    "side": "survivor",
+    "character": null,
+    "description": "___ is a Unique Perk belonging to Aestri Yazar & Baermar Uraz.Prestige Aestri Yazar & Baermar Uraz to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Still_Sight"
+  },
+  {
+    "name": "Streetwise",
+    "side": "survivor",
+    "character": "Nea Karlsson",
+    "description": "___ is a Unique Perk belonging to Nea Karlsson.Prestige Nea Karlsson to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Streetwise"
+  },
+  {
+    "name": "Strength in Shadows",
+    "side": "survivor",
+    "character": "Sable Ward",
+    "description": "___ is a Unique Perk belonging to Sable Ward.Prestige Sable Ward to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Strength_in_Shadows"
+  },
+  {
+    "name": "Stridor",
+    "side": "killer",
+    "character": "The Nurse",
+    "description": "___ is a Unique Perk belonging to The Nurse.Prestige The Nurse to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Stridor"
+  },
+  {
+    "name": "Superior Anatomy",
+    "side": "killer",
+    "character": "The Mastermind",
+    "description": "___ is a Unique Perk belonging to The Mastermind.Prestige The Mastermind to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Superior_Anatomy"
+  },
+  {
+    "name": "Surge",
+    "side": "killer",
+    "character": "The Demogorgon",
+    "description": "___ is a Unique Perk belonging to The Demogorgon.Prestige The Demogorgon to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Surge"
+  },
+  {
+    "name": "Surveillance",
+    "side": "killer",
+    "character": "The Pig",
+    "description": "___ is a Unique Perk belonging to The Pig.Prestige The Pig to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Surveillance"
+  },
+  {
+    "name": "THWACK!",
+    "side": "killer",
+    "character": "The Skull Merchant",
+    "description": "___ is a Unique Perk belonging to The Skull Merchant.Prestige The Skull Merchant to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "THWACK!"
+  },
+  {
+    "name": "Teamwork: Collective Stealth",
+    "side": "survivor",
+    "character": "Renato Lyra",
+    "description": "___ is a Unique Perk belonging to Renato Lyra.Prestige Renato Lyra to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Teamwork Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Teamwork:_Collective_Stealth"
+  },
+  {
+    "name": "Teamwork: Full Circuit",
+    "side": "unknown",
+    "character": "Dustin Henderson",
+    "description": "___ is a Unique Perk belonging to Dustin Henderson.Prestige Dustin Henderson to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ],
+    "id": "Teamwork:_Full_Circuit"
+  },
+  {
+    "name": "Teamwork: Power of Two",
+    "side": "survivor",
+    "character": "Thalita Lyra",
+    "description": "___ is a Unique Perk belonging to Thalita Lyra.Prestige Thalita Lyra to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Teamwork Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Teamwork:_Power_of_Two"
+  },
+  {
+    "name": "Teamwork: Soft-Spoken",
+    "side": "unknown",
+    "character": "Eleven",
+    "description": "___ is a Unique Perk belonging to Eleven.Prestige Eleven to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ],
+    "id": "Teamwork:_Soft-Spoken"
+  },
+  {
+    "name": "Teamwork: Throw Down",
+    "side": "survivor",
+    "character": "Michonne Grimes",
+    "description": "___ is a Unique Perk belonging to Michonne Grimes.Prestige Michonne Grimes to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Teamwork Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Teamwork:_Throw_Down"
+  },
+  {
+    "name": "Teamwork: Toughen Up",
+    "side": "survivor",
+    "character": "Rick Grimes",
+    "description": "___ is a Unique Perk belonging to Rick Grimes.Prestige Rick Grimes to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Teamwork Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Teamwork:_Toughen_Up"
+  },
+  {
+    "name": "Technician",
+    "side": "survivor",
+    "character": "Feng Min",
+    "description": "___ is a Unique Perk belonging to Feng Min.Prestige Feng Min to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Technician"
+  },
+  {
+    "name": "Tenacity",
+    "side": "survivor",
+    "character": "David Tapp",
+    "description": "___ is a Unique Perk belonging to David Tapp.Prestige David Tapp to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Tenacity"
+  },
+  {
+    "name": "Terminus",
+    "side": "killer",
+    "character": "The Mastermind",
+    "description": "___ is a Unique Perk belonging to The Mastermind.Prestige The Mastermind to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Terminus"
+  },
+  {
+    "name": "Territorial Imperative",
+    "side": "killer",
+    "character": "The Huntress",
+    "description": "___ is a Unique Perk belonging to The Huntress.Prestige The Huntress to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Territorial_Imperative"
+  },
+  {
+    "name": "Thanatophobia",
+    "side": "killer",
+    "character": "The Nurse",
+    "description": "___ is a Unique Perk belonging to The Nurse.Prestige The Nurse to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Thanatophobia"
+  },
+  {
+    "name": "This Is Not Happening",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ],
+    "id": "This_Is_Not_Happening"
+  },
+  {
+    "name": "Thrilling Tremors",
+    "side": "killer",
+    "character": "The Ghost Face",
+    "description": "___ is a Unique Perk belonging to The Ghost Face.Prestige The Ghost Face to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Thrilling_Tremors"
+  },
+  {
+    "name": "Tinkerer",
+    "side": "killer",
+    "character": "The Hillbilly",
+    "description": "___ is a Unique Perk belonging to The Hillbilly.Prestige The Hillbilly to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Tinkerer"
+  },
+  {
+    "name": "Tough Runner",
+    "side": "unknown",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Perks",
+      "Unused Perks"
+    ],
+    "id": "Tough_Runner"
+  },
+  {
+    "name": "Trail of Torment",
+    "side": "killer",
+    "character": "The Executioner",
+    "description": "___ is a Unique Perk belonging to The Executioner.Prestige The Executioner to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Trail_of_Torment"
+  },
+  {
+    "name": "Troubleshooter",
+    "side": "survivor",
+    "character": "Gabriel Soma",
+    "description": "___ is a Unique Perk belonging to Gabriel Soma.Prestige Gabriel Soma to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Chapter 28",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Troubleshooter"
+  },
+  {
+    "name": "Turn Back the Clock",
+    "side": "unknown",
+    "character": "The First",
+    "description": "___ is a Unique Perk belonging to The First.Prestige The First to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ],
+    "id": "Turn_Back_the_Clock"
+  },
+  {
+    "name": "Ultimate Weapon",
+    "side": "killer",
+    "character": "The Xenomorph",
+    "description": "___ is a Unique Perk belonging to The Xenomorph.Prestige The Xenomorph to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Ultimate_Weapon"
+  },
+  {
+    "name": "Unbound",
+    "side": "killer",
+    "character": "The Unknown",
+    "description": "___ is a Unique Perk belonging to The Unknown.Prestige The Unknown to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Unbound"
+  },
+  {
+    "name": "Unbreakable",
+    "side": "survivor",
+    "character": "Bill Overbeck",
+    "description": "___ is a Unique Perk belonging to Bill Overbeck.Prestige Bill Overbeck to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Unbreakable"
+  },
+  {
+    "name": "Underperform",
+    "side": "unknown",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Perks",
+      "Unused Perks"
+    ],
+    "id": "Underperform"
+  },
+  {
+    "name": "Undone",
+    "side": "killer",
+    "character": "The Unknown",
+    "description": "___ is a Unique Perk belonging to The Unknown.Prestige The Unknown to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Undone"
+  },
+  {
+    "name": "Unforeseen",
+    "side": "killer",
+    "character": "The Unknown",
+    "description": "___ is a Unique Perk belonging to The Unknown.Prestige The Unknown to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Unforeseen"
+  },
+  {
+    "name": "Unnerving Presence",
+    "side": "killer",
+    "character": "The Trapper",
+    "description": "___ is a Unique Perk belonging to The Trapper.Prestige The Trapper to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Unnerving_Presence"
+  },
+  {
+    "name": "Unrelenting",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Pages using Tabber parser tag",
+      "Perks"
+    ],
+    "id": "Unrelenting"
+  },
+  {
+    "name": "Up the Ante",
+    "side": "survivor",
+    "character": "Ace Visconti",
+    "description": "___ is a Unique Perk belonging to Ace Visconti.Prestige Ace Visconti to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Up_the_Ante"
+  },
+  {
+    "name": "Urban Evasion",
+    "side": "survivor",
+    "character": "Nea Karlsson",
+    "description": "___ is a Unique Perk belonging to Nea Karlsson.Prestige Nea Karlsson to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Urban_Evasion"
+  },
+  {
+    "name": "Vigil",
+    "side": "survivor",
+    "character": "Quentin Smith",
+    "description": "___ is a Unique Perk belonging to Quentin Smith.Prestige Quentin Smith to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Vigil"
+  },
+  {
+    "name": "Visionary",
+    "side": "survivor",
+    "character": "Felix Richter",
+    "description": "___ is a Unique Perk belonging to Felix Richter.Prestige Felix Richter to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Visionary"
+  },
+  {
+    "name": "Wake Up!",
+    "side": "survivor",
+    "character": "Quentin Smith",
+    "description": "___ is a Unique Perk belonging to Quentin Smith.Prestige Quentin Smith to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Wake_Up!"
+  },
+  {
+    "name": "Wandering Eye",
+    "side": "killer",
+    "character": "The Krasue",
+    "description": "___ is a Unique Perk belonging to The Krasue.Prestige The Krasue to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Wandering_Eye"
+  },
+  {
+    "name": "We See You",
+    "side": "unknown",
+    "character": "Eleven",
+    "description": "___ is a Unique Perk belonging to Eleven.Prestige Eleven to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Perks"
+    ],
+    "id": "We_See_You"
+  },
+  {
+    "name": "We'll Make It",
+    "side": "survivor",
+    "character": "General",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Survivor Perks"
+    ],
+    "id": "We'll_Make_It"
+  },
+  {
+    "name": "We're Gonna Live Forever",
+    "side": "survivor",
+    "character": "David King",
+    "description": "___ is a Unique Perk belonging to David King.Prestige David King to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "We're_Gonna_Live_Forever"
+  },
+  {
+    "name": "Weave Attunement",
+    "side": "killer",
+    "character": "The Lich",
+    "description": "___ is a Unique Perk belonging to The Lich.Prestige The Lich to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Weave_Attunement"
+  },
+  {
+    "name": "Whispers",
+    "side": "killer",
+    "character": "General",
+    "description": "___ is a General Perk available to all Killers.",
+    "categories": [
+      "Killer Perks",
+      "Perks"
+    ],
+    "id": "Whispers"
+  },
+  {
+    "name": "Wicked",
+    "side": "survivor",
+    "character": "Sable Ward",
+    "description": "___ is a Unique Perk belonging to Sable Ward.Prestige Sable Ward to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Wicked"
+  },
+  {
+    "name": "Wide Open Throttle",
+    "side": "unknown",
+    "character": "Shane Wiigwaas",
+    "description": "___ is a Unique Perk belonging to Shane Wiigwaas.Prestige Shane Wiigwaas to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks"
+    ],
+    "id": "Wide_Open_Throttle"
+  },
+  {
+    "name": "Will to Live",
+    "side": "survivor",
+    "character": "Laurie Strode",
+    "description": "___ is a General Perk available to all Survivors.",
+    "categories": [
+      "Obsession Perks",
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Will_to_Live"
+  },
+  {
+    "name": "Windows of Opportunity",
+    "side": "survivor",
+    "character": "Kate Denson",
+    "description": "___ is a Unique Perk belonging to Kate Denson.Prestige Kate Denson to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Survivor Perks"
+    ],
+    "id": "Windows_of_Opportunity"
+  },
+  {
+    "name": "Wiretap",
+    "side": "unknown",
+    "character": "Ada Wong",
+    "description": "___ is a Unique Perk belonging to Ada Wong.Prestige Ada Wong to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks"
+    ],
+    "id": "Wiretap"
+  },
+  {
+    "name": "Zanshin Tactics",
+    "side": "killer",
+    "character": "The Oni",
+    "description": "___ is a Unique Perk belonging to The Oni.Prestige The Oni to Prestige 1, 2, 3 respectively to unlock Tier I, Tier II, Tier III of ___ for all other Characters.",
+    "categories": [
+      "Pages using Tabber parser tag",
+      "Perks",
+      "Unique Killer Perks"
+    ],
+    "id": "Zanshin_Tactics"
+  }
+]

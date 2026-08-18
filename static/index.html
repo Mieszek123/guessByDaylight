@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GuessByDaylight</title>
+<link rel="icon" type="image/png" href="/favicon.png">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          bg: '#0f1115',
+          panel: '#171a21',
+          panel2: '#1f232c',
+          border: '#2a2f3a',
+          survivor: '#4fb0a5',
+          killer: '#c9564f',
+          accent: '#e8b04b',
+          ok: '#4caf6b',
+        }
+      }
+    }
+  }
+</script>
+</head>
+<body class="min-h-screen bg-bg text-gray-100 font-sans flex items-start justify-center">
+<div class="w-full max-w-md px-5 py-10">
+
+  <h1 class="text-center text-2xl font-bold tracking-wide mb-1">GuessByDaylight</h1>
+  <p class="text-center text-gray-500 text-sm mb-7">Zgadnij losowy perk</p>
+
+  <!-- ekran wyboru strony -->
+  <p id="loadingMsg" class="text-center text-gray-500 text-sm mb-3">Ładowanie perków...</p>
+  <div id="sideSelect" class="flex gap-3">
+    <button data-side="survivor" disabled
+      class="side-btn flex-1 py-6 px-3 rounded-lg border border-border bg-panel font-semibold hover:-translate-y-0.5 hover:border-survivor transition disabled:opacity-40 disabled:pointer-events-none">
+      Survivor
+    </button>
+    <button data-side="killer" disabled
+      class="side-btn flex-1 py-6 px-3 rounded-lg border border-border bg-panel font-semibold hover:-translate-y-0.5 hover:border-killer transition disabled:opacity-40 disabled:pointer-events-none">
+      Killer
+    </button>
+  </div>
+
+  <!-- ekran gry -->
+  <div id="game" class="hidden">
+    <div class="flex justify-between items-center mb-4">
+      <span id="sideBadge" class="text-xs uppercase tracking-wide font-bold px-3 py-1 rounded-full"></span>
+      <button id="changeSideBtn" class="text-xs text-gray-500 border border-border rounded-lg px-3 py-1 hover:text-gray-200 hover:border-gray-500">
+        Zmień stronę
+      </button>
+    </div>
+
+    <div id="status" class="text-center text-gray-500 text-sm py-8">Ładowanie...</div>
+
+    <div id="playArea" class="hidden">
+      <div id="targetImageWrap" class="hidden justify-center mb-4">
+        <img id="targetImage" src="" alt="Zgadywany perk"
+          class="w-28 h-28 rounded-lg object-cover border border-border bg-panel"
+          onerror="this.style.visibility='hidden'">
+      </div>
+
+      <div class="flex items-center justify-between mb-3">
+        <label for="imgToggle" class="text-xs text-gray-400 select-none cursor-pointer">Pokaż zdjęcie perka</label>
+        <button id="imgToggle" type="button" role="switch" aria-checked="false"
+          class="relative w-10 h-5 rounded-full bg-border transition-colors">
+          <span class="absolute top-0.5 left-0.5 w-4 h-4 rounded-full bg-gray-400 transition-transform"></span>
+        </button>
+      </div>
+
+      <div id="attemptCount" class="text-xs text-gray-500 mb-2">Próby: 0</div>
+
+      <div class="relative mb-4">
+        <input id="guessInput" type="text" autocomplete="off" placeholder="Wpisz nazwę perka..."
+          class="w-full px-4 py-3 rounded-lg bg-panel border border-border text-sm outline-none focus:border-accent disabled:opacity-50">
+        <div id="autocomplete"
+          class="hidden absolute top-full left-0 right-0 mt-1 bg-panel2 border border-border rounded-lg max-h-56 overflow-y-auto z-10"></div>
+      </div>
+
+      <div id="guesses" class="flex flex-col gap-2"></div>
+
+      <div id="winMsg" class="hidden mt-5 text-center p-4 rounded-lg bg-ok/10 border border-ok/30">
+        <h2 class="text-ok font-bold text-lg mb-1">Brawo! 🎉</h2>
+        <p id="winText" class="text-gray-400 text-sm"></p>
+        <button id="playAgainBtn"
+          class="mt-3 px-5 py-2 rounded-lg bg-ok text-bg font-bold text-sm hover:opacity-90">
+          Zagraj jeszcze raz
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Względny URL - wola ten sam origin, z ktorego zaladowano strone (bez CORS)
+  const API_URL = "/perks?limit=1000";
+
+  let allPerks = [];
+  let currentSide = null;
+  let pool = [];
+  let target = null;
+  let solved = false;
+  let attempts = 0;
+  let showImages = false;
+
+  const el = {
+    sideSelect: document.getElementById('sideSelect'),
+    game: document.getElementById('game'),
+    sideBadge: document.getElementById('sideBadge'),
+    changeSideBtn: document.getElementById('changeSideBtn'),
+    status: document.getElementById('status'),
+    playArea: document.getElementById('playArea'),
+    guessInput: document.getElementById('guessInput'),
+    autocomplete: document.getElementById('autocomplete'),
+    guesses: document.getElementById('guesses'),
+    winMsg: document.getElementById('winMsg'),
+    winText: document.getElementById('winText'),
+    playAgainBtn: document.getElementById('playAgainBtn'),
+    attemptCount: document.getElementById('attemptCount'),
+    imgToggle: document.getElementById('imgToggle'),
+    targetImageWrap: document.getElementById('targetImageWrap'),
+    targetImage: document.getElementById('targetImage'),
+  };
+
+  async function loadPerks() {
+    try {
+      const res = await fetch(API_URL);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      allPerks = await res.json();
+      return true;
+    } catch (err) {
+      el.status.textContent = `Błąd ładowania danych: ${err.message}`;
+      el.status.classList.add('text-killer');
+      return false;
+    }
+  }
+
+  function startGame(side) {
+    currentSide = side;
+    el.sideSelect.classList.add('hidden');
+    el.game.classList.remove('hidden');
+
+    el.sideBadge.textContent = side;
+    el.sideBadge.className = side === 'survivor'
+      ? 'text-xs uppercase tracking-wide font-bold px-3 py-1 rounded-full bg-survivor/15 text-survivor'
+      : 'text-xs uppercase tracking-wide font-bold px-3 py-1 rounded-full bg-killer/15 text-killer';
+
+    resetRound();
+  }
+
+  function resetRound() {
+    pool = allPerks.filter(p => p.side === currentSide);
+    if (pool.length === 0) {
+      el.status.textContent = 'Brak perków dla tej strony.';
+      el.status.classList.remove('hidden');
+      el.playArea.classList.add('hidden');
+      return;
+    }
+    target = pool[Math.floor(Math.random() * pool.length)];
+    solved = false;
+    attempts = 0;
+
+    el.status.classList.add('hidden');
+    el.playArea.classList.remove('hidden');
+    el.guesses.innerHTML = '';
+    el.winMsg.classList.add('hidden');
+    el.guessInput.value = '';
+    el.guessInput.disabled = false;
+    el.attemptCount.textContent = 'Próby: 0';
+    el.autocomplete.classList.add('hidden');
+    el.guessInput.focus();
+    updateTargetImage();
+  }
+
+  function renderAutocomplete() {
+    const q = el.guessInput.value.trim().toLowerCase();
+    if (!q || solved) {
+      el.autocomplete.classList.add('hidden');
+      el.autocomplete.innerHTML = '';
+      return;
+    }
+    const matches = pool.filter(p => p.name.toLowerCase().includes(q)).slice(0, 8);
+
+    if (matches.length === 0) {
+      el.autocomplete.classList.add('hidden');
+      el.autocomplete.innerHTML = '';
+      return;
+    }
+
+    el.autocomplete.innerHTML = matches.map(p =>
+      `<div class="ac-item px-4 py-2 text-sm cursor-pointer border-b border-border last:border-b-0 hover:bg-border" data-name="${escapeHtml(p.name)}">${escapeHtml(p.name)}</div>`
+    ).join('');
+    el.autocomplete.classList.remove('hidden');
+  }
+
+  function submitGuess(name) {
+    if (solved || !name) return;
+    attempts++;
+    el.attemptCount.textContent = `Próby: ${attempts}`;
+
+    const isCorrect = name.trim().toLowerCase() === target.name.trim().toLowerCase();
+
+    const row = document.createElement('div');
+    row.className = isCorrect
+      ? 'flex justify-between items-center px-4 py-3 rounded-lg text-sm font-semibold bg-ok/15 text-ok border border-ok/30'
+      : 'flex justify-between items-center px-4 py-3 rounded-lg text-sm font-semibold bg-killer/15 text-killer border border-killer/30';
+    row.innerHTML = `<span>${escapeHtml(name)}</span><span>${isCorrect ? '✔' : '✘'}</span>`;
+    el.guesses.prepend(row);
+
+    el.guessInput.value = '';
+    el.autocomplete.classList.add('hidden');
+
+    if (isCorrect) {
+      solved = true;
+      el.guessInput.disabled = true;
+      el.winText.textContent = `Zgadłeś "${target.name}" w ${attempts} ${attempts === 1 ? 'próbie' : 'próbach'}.`;
+      el.winMsg.classList.remove('hidden');
+    }
+  }
+
+  function updateTargetImage() {
+    if (!target) return;
+    el.targetImage.style.visibility = 'visible';
+    el.targetImage.src = getImageUrl(target.name);
+    el.targetImageWrap.classList.toggle('hidden', !showImages);
+    el.targetImageWrap.classList.toggle('flex', showImages);
+  }
+
+  function getImageUrl(name) {
+    // "A Nurse's Calling" -> "ANursesCalling" -> "/Perks_img/iconPerks_ANursesCalling.png"
+    const clean = name.replace(/[^a-zA-Z0-9]/g, '');
+    return `/Perks_img/iconPerks_${clean}.png`;
+  }
+
+  function escapeHtml(str) {
+    const d = document.createElement('div');
+    d.textContent = str;
+    return d.innerHTML;
+  }
+
+  el.sideSelect.addEventListener('click', (e) => {
+    const btn = e.target.closest('.side-btn');
+    if (btn) startGame(btn.dataset.side);
+  });
+
+  el.changeSideBtn.addEventListener('click', () => {
+    el.game.classList.add('hidden');
+    el.sideSelect.classList.remove('hidden');
+  });
+
+  el.guessInput.addEventListener('input', renderAutocomplete);
+
+  el.guessInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      const first = el.autocomplete.querySelector('.ac-item');
+      const val = first ? first.dataset.name : el.guessInput.value;
+      submitGuess(val);
+    }
+  });
+
+  el.autocomplete.addEventListener('click', (e) => {
+    const item = e.target.closest('.ac-item');
+    if (item) submitGuess(item.dataset.name);
+  });
+
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.relative')) {
+      el.autocomplete.classList.add('hidden');
+    }
+  });
+
+  el.imgToggle.addEventListener('click', () => {
+    showImages = !showImages;
+    el.imgToggle.setAttribute('aria-checked', String(showImages));
+    el.imgToggle.classList.toggle('bg-accent', showImages);
+    el.imgToggle.classList.toggle('bg-border', !showImages);
+    el.imgToggle.querySelector('span').classList.toggle('translate-x-5', showImages);
+    renderAutocomplete();
+    updateTargetImage();
+  });
+
+  el.playAgainBtn.addEventListener('click', resetRound);
+
+  (async () => {
+    const ok = await loadPerks();
+    const loadingMsg = document.getElementById('loadingMsg');
+    if (ok) {
+      loadingMsg.classList.add('hidden');
+      document.querySelectorAll('.side-btn').forEach(b => b.disabled = false);
+    } else {
+      loadingMsg.textContent = 'Błąd ładowania danych z API — sprawdź konsolę (F12) i czy backend działa.';
+      loadingMsg.classList.remove('text-gray-500');
+      loadingMsg.classList.add('text-killer');
+    }
+  })();
+</script>
+</body>
+</html>
